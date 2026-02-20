@@ -3,8 +3,8 @@
 
 /*
  * Potrfolio submission
- * Name:
- * ID:
+ * Name: Kayla Janeeta Rahardjo
+ * ID: 201967257
  */
 
  int main( void ) {
